@@ -1,0 +1,6 @@
+*.py
+*.exe
+PolygonDB
+pteroegg.json
+.vscode
+compiled
